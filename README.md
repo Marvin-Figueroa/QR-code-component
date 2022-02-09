@@ -7,12 +7,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - [Overview](#overview)
   - [Screenshots](#screenshots)
 - [My process](#my-process)
+  - [Links](#links)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
 - [Author](#author)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -24,6 +23,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ## My process
 
+### Links
+
+- Live Site URL: [Solution Hosted using GitHub Pages](https://marvin-figueroa.github.io/QR-code-component/)
+
 ### Built with
 
 - Semantic HTML5 markup
@@ -33,7 +36,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-I learned how to center the elements (vertically and horizontally) on the body of the page using CSS Grid.
+I learned how to center the elements (vertically and horizontally) on the body of the page using CSS Grid. I also practiced basic CSS properties like border-radius, margin, padding, box-sizing, etc.
 
 ```css
 body {
