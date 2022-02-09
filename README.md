@@ -25,7 +25,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Marvin-Figueroa/QR-code-component.git)
+- Solution URL: [GitHub Repo](https://github.com/Marvin-Figueroa/QR-code-component.git)
 
 ## My process
 
@@ -41,7 +41,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 I learned how to center the elements (vertically and horizontally) on the body of the page using CSS Grid.
 
 ```css
-.body {
+body {
   height: 100vh;
   display: grid;
   place-items: center;
@@ -50,8 +50,8 @@ I learned how to center the elements (vertically and horizontally) on the body o
 
 ### Continued development
 
--BEM CSS Architecture
--Making Layouts without including unnecessary elements.
+- BEM CSS Architecture
+- Making Layouts without including unnecessary elements.
 
 ## Author
 
